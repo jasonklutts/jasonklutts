@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 ## Hi, I'm Jason, and IT Professional
-<p dir="auto"><b>TITLE 1</b></p>
+<p dir="auto"><b>oSTicket-Help Desk Ticketing System</b></p>
 <ul dir="auto">
-<li><a href="https://www.google.com/">SUB 1</a></li>
-<li><a href="https://www.google.com/">SUB 2</a></li>
-<li><a href="https://www.google.com/">SUB 3</a></li>
+<li><a href="https://github.com/jasonklutts/osticket-prereqs>osTicket: Prerequisites and Installation</a></li>
+<li><a href="https://github.com/jasonklutts/post-install-config">osTicket: Post-Installation Configuration</a></li>
+<li><a href="https://github.com/jasonklutts/ticket-lifecycle">osTicket: Ticket Lifecycle Examples</a></li>
 </ul>
 </li>
 <li>
