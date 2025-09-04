@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Hi, I'm Jason, and IT Professional
 <p dir="auto"><b>oSTicket-Help Desk Ticketing System</b></p>
 <ul dir="auto">
