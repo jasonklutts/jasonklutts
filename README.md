@@ -12,5 +12,4 @@
 **Active Directory**
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jasonklutts/configure-ad)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-klutts/)
-
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-klutts/)
