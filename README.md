@@ -12,5 +12,5 @@
 **Active Directory**
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jasonklutts/configure-ad)
 
-**LinkedIn**
-- [Jason Klutts – LinkedIn Profile](https://www.linkedin.com/in/jason-klutts/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-klutts/)
+
