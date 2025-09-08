@@ -6,7 +6,6 @@
 
 **Microsoft Azure**
 - [Creating a Windows and Linux Virtual Machine in the Cloud](https://github.com/jasonklutts/Creating-VMs-Azure)
-- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jasonklutts/azure-network-protocols)
 - [VPN Setup in Virtual Machine](https://github.com/jasonklutts/azure_vpn_setup)
 
 **Active Directory**
